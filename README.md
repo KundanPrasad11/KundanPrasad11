@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kundan Kumar Prasad</h1>
-<h3 align="center">A passionate MERN stack developer from India.  Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+<h3 align="center">A passionate MERN stack developer from India who focuses on writing clean and efficient code..</h3>
 
 - 🔭 I’m currently working on [Meesho Clone](https://github.com/KundanPrasad11/meesho_clone)
 
