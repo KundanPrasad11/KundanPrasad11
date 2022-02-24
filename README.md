@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundanprasad11&label=Profile%20views&color=0e75b6&style=flat" alt="kundanprasad11" /> </p>
 
-- 🔭 I’m currently working on [Meesho Clone](https://github.com/KundanPrasad11/meesho_clone)
+- 🔭 I’m currently working on [IKEA Clone]
 
 - 🌱 I’m currently learning **MERN stack**
 
